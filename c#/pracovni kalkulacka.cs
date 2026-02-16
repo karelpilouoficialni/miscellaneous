@@ -1,10 +1,4 @@
-using System;
-
-class Program
-{
-    static void Main()
-    {
-        Console.WriteLine("Vítejte v kalkulačce práce a mezd");
+Console.WriteLine("Vítejte v kalkulačce práce a mezd");
 
         // ziskani mzdy
         Console.Write("Zadejte hodinovou mzdu (Kč/h): ");
@@ -80,5 +74,3 @@ class Program
         }
 
         Console.WriteLine("\nStiskněte jakoukoli klávesu pro ukončení...");
-    }
-}
